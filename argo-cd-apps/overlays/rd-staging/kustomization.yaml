@@ -15,6 +15,7 @@ resources:
   - etcd-shield
   - etcd-defrag
   - external-secrets-operator
+  - internal-services
   - konflux-operator
   - konflux-verifications-rd
   - kube-shard
